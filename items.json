@@ -1,0 +1,73 @@
+var DATA = {
+  "items": [
+    {
+      "category" : "punk", 
+      "date" : "01-15-1993",
+      "bandName" : "Poogazi",
+      "img" : "fugazi.jpg",
+    },
+    {
+      "category" : "emo", 
+      "date" : "02-23-1998",
+      "bandName" : "Braid",
+      "img" : "braid.jpg",
+    },
+    {
+      "category" : "rock", 
+      "date" : "06-20-1978",
+      "bandName" : "AC/DC",
+      "img" : "acdc.jpg",
+    },
+    {
+      "category" : "metal", 
+      "date" : "12-20-1983",
+      "bandName" : "Metallica",
+      "img" : "metallica.jpg",
+    },
+    {
+      "category" : "punk", 
+      "date" : "07-13-1977",
+      "bandName" : "Sex Pistols",
+      "img" : "sexpistols.jpg",
+    },
+    {
+      "category" : "punk", 
+      "date" : "12-09-1982",
+      "bandName" : "Black Flag",
+      "img" : "blackflag.jpg",
+    },
+    {
+      "category" : "emo", 
+      "date" : "02-28-2005",
+      "bandName" : "Fall Out Boy",
+      "img" : "falloutboy.jpg",
+    },
+    {
+      "category" : "rock", 
+      "date" : "08-15-1964",
+      "bandName" : "The Who",
+      "img" : "thewho.jpg",
+    },
+  ],
+  
+  "meta": {
+    "categories": [
+      { 
+        "type" : "punk", 
+        "title" : "Punk Rock", 
+      },
+      {
+        "type" : "metal", 
+        "title" : "Heavy Metal",
+      },
+      {
+        "type" : "rock",
+        "title": "Rock and Roll",
+      },
+      {
+        "type" : "emo",
+        "title": "Emotional Hardcore",
+      },
+    ],
+  },
+}
